@@ -1,0 +1,9 @@
+name: InventoryManager
+author: michaelkrauty
+version: 1.0
+main: me.michaelkrauty.InventoryManager.Main
+commands:
+  inventory:
+    usage: /inv [args]
+    aliases: [inv]
+    permission: inventorymanager.use
